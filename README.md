@@ -1,43 +1,126 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-carniel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+
+# Pedro Henrique Carniel
+
+### QA Analyst • Cybersecurity Student • Computer Science Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=QA+Analyst;Cybersecurity+Student;Computer+Science+Student;Python+%7C+C%2B%2B+%7C+Cybersecurity+%7C+Linux" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/pedro-carniel/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pedrohcastamancarniel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<h1 align="center">Bem vindo ao meu perfil - Welcome to my profile</h1>
+# 👨‍💻 Sobre mim | About Me
 
-###
+```bash
+> Nome | Name: Pedro Henrique Carniel
+> Localização | Location: Passo Fundo - RS, Brazil
+> Formação | Education: Computer Science Student
+> Cargo atual | Current role: QA Analyst
+> Foco atual | Current focus: Cybersecurity & Pentest
+```
 
-<h3 align="left">👩‍💻  Sobre mim - About me</h3>
+## 🇧🇷 Português
 
-###
+- 🔭 Atualmente trabalhando como Analista de Testes
+- 📚 Estudando Cybersecurity, Pentest e Redes
+- ⚡ Apaixonado por tecnologia, segurança e programação
+- 🎯 Objetivo: atuar profissionalmente com Segurança Ofensiva e QA
 
-<p align="left">Sou Pedro Henrique Carniel, de Passo Fundo, Rio Grande do Sul.<br><br>Atualmente sou estudante de ciência da computação no IFSul - Campus Passo Fundo<br><br>- 🔭 Estou trabalhando como analista de testes.<br>- 📚 Atualmente estou aprendendo Cybersegurança.<br>- ⚡ No meu tempo livre jogo, estudo e programo.<br><br><br>I'm Pedro Henrique Carniel from Passo Fundo, Rio Grande do Sul.<br><br>I am currently a computer science student at the IFSul - Passo Fundo campus<br><br>- 🔭 I’m working as test analyst.<br>- 📚 I'm currently learning Cybersecurity.<br>- ⚡ In my free time I play games and study/code.</p>
+## 🇺🇸 English
 
-###
+- 🔭 Currently working as a QA Analyst
+- 📚 Studying Cybersecurity, Pentesting and Networking
+- ⚡ Passionate about technology, security and programming
+- 🎯 Goal: work professionally with Offensive Security and QA
 
-<h3 align="left">🛠 Linguages e ferramentas - Languages and tools</h3>
+---
 
-###
+# 🛠️ Tecnologias e Ferramentas | Languages & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,dotnet,postgres,git,github,linux,vscode,bash" />
+
+<br><br>
+
 </div>
 
-###
+---
 
-<h3 align="left">🔥   Meus status - My Stats</h3>
+# 📊 GitHub Stats
 
-###
+<div align="center">
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=bypHh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bypHh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypHh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=bypHh&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
+
+# 🚀 Atualmente estudando | Currently Learning
+
+```txt
+Cybersecurity
+Pentest
+Networking
+Linux
+Python
+```
+
+---
+
+# 🧠 Conhecimentos | Knowledge
+
+- Software Testing
+- QA Automation
+- Computer Networks
+- Linux
+- Databases
+- Offensive Security
+- C/C++ Programming
+- Python Scripting
+
+---
+
+# 🎮 Hobbies
+
+- Games
+- Linux customization
+- Cybersecurity Labs
+- Programming
+- Studying new technologies
+
+---
+
+<div align="center">
+
+## 👀 Visitas no perfil | Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=bypHh&label=Profile%20views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+<div align="center">
+
+### “Learning one exploit at a time.”
+
+</div>
