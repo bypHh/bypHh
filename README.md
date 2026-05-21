@@ -52,7 +52,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,dotnet,postgres,git,github,linux,vscode,bash" />
 
-<br><br>
+<br>
 
 </div>
 
@@ -62,13 +62,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=bypHh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bypHh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=bypHh&theme=tokyonight&hide_border=true"/>
+<img height="200em" src="https://streak-stats.demolab.com?user=bypHh&theme=tokyonight&hide_border=true"/>
 
 </div>
 
